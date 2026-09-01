@@ -1,0 +1,68 @@
+RESUME
+
+Name: Sneha Desai
+Email: sneha.desai@gmail.com
+Phone: +91 9765432180
+Location: Nashik, Maharashtra
+
+----------------------------
+OBJECTIVE
+----------------------------
+B.Tech Civil Engineering graduate looking for opportunities in construction project management and structural design. Passionate about sustainable infrastructure development.
+
+----------------------------
+EDUCATION
+----------------------------
+B.Tech - Civil Engineering
+PVPIT College of Engineering, Nashik
+Savitribai Phule Pune University
+Year: 2025 | CGPA: 7.8 / 10
+
+----------------------------
+TECHNICAL SKILLS
+----------------------------
+Design Software  : AutoCAD, STAAD Pro, Revit
+Analysis Tools   : ETABS, SAP2000
+MS Office        : Excel, Word, PowerPoint
+Programming      : Basic C (college level only)
+Surveying        : Total Station, GPS Survey Equipment
+
+----------------------------
+PROJECTS
+----------------------------
+1. Design of RCC Multi-Storey Building
+   - Designed a G+4 residential building using STAAD Pro
+   - Performed load analysis and structural member design
+   - Prepared detailed drawings using AutoCAD
+   - Tech: AutoCAD, STAAD Pro
+
+2. Traffic Flow Analysis - Nashik Highway
+   - Conducted traffic volume count and analysis
+   - Prepared traffic management report
+   - Used Excel for data recording and charts
+
+----------------------------
+INTERNSHIP
+----------------------------
+Site Engineer Intern - Nashik Municipal Corporation (2024)
+- Supervised road construction and quality checks
+- Maintained daily site progress reports
+
+----------------------------
+CERTIFICATIONS
+----------------------------
+- AutoCAD Professional - Autodesk (2024)
+- Project Management Basics - Coursera (2024)
+
+----------------------------
+SOFT SKILLS
+----------------------------
+- Leadership
+- Site Management
+- Report Writing
+- Team Coordination
+
+----------------------------
+LANGUAGES
+----------------------------
+English, Hindi, Marathi

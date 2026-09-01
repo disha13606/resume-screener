@@ -1,0 +1,84 @@
+RESUME
+
+Name: Aditya Kulkarni
+Email: aditya.kulkarni@gmail.com
+Phone: +91 9812345670
+Location: Pune, Maharashtra
+
+----------------------------
+OBJECTIVE
+----------------------------
+Passionate B.Tech AIML student with strong hands-on experience in NLP, Deep Learning, and Python development. Skilled in building end-to-end ML pipelines and deploying models using Flask and Streamlit.
+
+----------------------------
+EDUCATION
+----------------------------
+B.Tech - Artificial Intelligence and Machine Learning Engineering
+MIT College of Engineering, Pune
+Savitribai Phule Pune University
+Year: 2025 | CGPA: 8.9 / 10
+
+----------------------------
+TECHNICAL SKILLS
+----------------------------
+Programming           : Python, SQL, JavaScript
+Machine Learning      : Scikit-learn, TF-IDF, Cosine Similarity, Naive Bayes, SVM, Random Forest
+Deep Learning         : TensorFlow, PyTorch, Keras
+NLP                   : NLTK, SpaCy, BERT, Transformers, Hugging Face, Word2Vec, Named Entity Recognition
+Data Tools            : Pandas, NumPy, Matplotlib, Seaborn, Feature Engineering
+Web Frameworks        : Flask, Streamlit, FastAPI
+Databases             : MySQL, PostgreSQL, SQLite, MongoDB
+DevOps / Tools        : Git, Docker, Linux, VS Code, Jupyter Notebook, MLflow
+Cloud                 : AWS, GCP (basics)
+
+----------------------------
+PROJECTS
+----------------------------
+1. Intelligent Chatbot using BERT and NLP
+   - Built a domain-specific chatbot using BERT Transformers and Hugging Face
+   - Implemented Named Entity Recognition (NER) using SpaCy
+   - Fine-tuned pre-trained BERT model on custom dataset
+   - Deployed using Flask REST API
+   - Tech Stack: Python, BERT, SpaCy, Flask, MySQL
+
+2. Resume Screening System
+   - Developed automated resume screener using TF-IDF and Cosine Similarity
+   - Text preprocessing pipeline: tokenization, lemmatization, stop-word removal using NLTK
+   - Parsed resumes from PDF and DOCX using PDFMiner and Python-docx
+   - Built recruiter dashboard using Streamlit
+   - Tech Stack: Python, Scikit-learn, NLTK, Streamlit, SQLite, PDFMiner
+
+3. Credit Card Fraud Detection
+   - Built classification model using Random Forest and XGBoost
+   - Handled imbalanced dataset using SMOTE technique
+   - Achieved 96.3% accuracy and 0.98 AUC-ROC score
+   - Tech Stack: Python, Scikit-learn, Pandas, Matplotlib
+
+----------------------------
+CERTIFICATIONS
+----------------------------
+- Deep Learning Specialization - deeplearning.ai / Coursera (2024)
+- NLP with Python - Udemy (2024)
+- AWS Cloud Practitioner - Amazon (2025)
+- Git and GitHub - Google (2024)
+
+----------------------------
+ACHIEVEMENTS
+----------------------------
+- 1st Place - State Level ML Hackathon, Pune (2024)
+- Published paper on NLP Resume Screening - IJARCCE Journal (2025)
+- Smart India Hackathon Finalist (2024)
+
+----------------------------
+SOFT SKILLS
+----------------------------
+- Analytical Thinking
+- Problem Solving
+- Leadership
+- Communication
+- Team Collaboration
+
+----------------------------
+LANGUAGES
+----------------------------
+English, Hindi, Marathi

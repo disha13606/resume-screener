@@ -1,0 +1,62 @@
+RESUME
+
+Name: Rohit Patil
+Email: rohit.patil@gmail.com
+Phone: +91 9823456710
+Location: Kolhapur, Maharashtra
+
+----------------------------
+OBJECTIVE
+----------------------------
+B.Tech Computer Science graduate with knowledge of Python and data analysis. Interested in software development and basic machine learning applications.
+
+----------------------------
+EDUCATION
+----------------------------
+B.Tech - Computer Science Engineering
+KIT College of Engineering, Kolhapur
+Shivaji University
+Year: 2025 | CGPA: 7.1 / 10
+
+----------------------------
+TECHNICAL SKILLS
+----------------------------
+Programming Languages : Python, Java, C++
+Data Analysis         : Pandas, NumPy, Excel
+Machine Learning      : Scikit-learn (basics), Linear Regression, Decision Tree
+Web Development       : HTML, CSS, Flask
+Database              : MySQL, SQLite
+Tools                 : Git, VS Code, Jupyter Notebook
+
+----------------------------
+PROJECTS
+----------------------------
+1. Student Result Management System
+   - Built a web app using Flask and MySQL to manage student results
+   - Implemented CRUD operations with Python backend
+   - Tech Stack: Python, Flask, MySQL, HTML, CSS
+
+2. House Price Prediction
+   - Built a regression model to predict house prices
+   - Used Linear Regression and Decision Tree with Scikit-learn
+   - Data preprocessing done using Pandas and NumPy
+   - Tech Stack: Python, Scikit-learn, Pandas, Matplotlib
+
+----------------------------
+CERTIFICATIONS
+----------------------------
+- Python Basics - Coursera (2024)
+- Data Analysis with Pandas - Udemy (2024)
+
+----------------------------
+SOFT SKILLS
+----------------------------
+- Teamwork
+- Time Management
+- Quick Learner
+- Communication
+
+----------------------------
+LANGUAGES
+----------------------------
+English, Hindi, Marathi

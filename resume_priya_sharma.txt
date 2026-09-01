@@ -1,0 +1,71 @@
+RESUME
+
+Name: Priya Sharma
+Email: priya.sharma@gmail.com
+Phone: +91 9876543210
+Location: Pune, Maharashtra
+LinkedIn: linkedin.com/in/priyasharma
+
+----------------------------
+OBJECTIVE
+----------------------------
+Motivated B.Tech AIML fresher with hands-on experience in Python, Machine Learning, and NLP projects. Looking for a Junior ML Engineer role where I can apply my skills in TF-IDF, Cosine Similarity, and Streamlit-based web applications.
+
+----------------------------
+EDUCATION
+----------------------------
+B.Tech - Artificial Intelligence and Machine Learning Engineering
+Ashokrao Mane Group of Institutions, Vathar
+Dr. Babasaheb Ambedkar Technological University, Lonere
+Year: 2025 | CGPA: 8.4 / 10
+
+----------------------------
+TECHNICAL SKILLS
+----------------------------
+Programming Languages : Python, SQL, R
+Machine Learning      : Scikit-learn, TF-IDF, Cosine Similarity, Word2Vec, NLP
+Deep Learning         : TensorFlow, Keras
+NLP Tools             : NLTK, SpaCy, PDFMiner, Python-docx
+Web Frameworks        : Streamlit, Flask
+Data Analysis         : Pandas, NumPy, Matplotlib, Seaborn
+Database              : MySQL, SQLite
+Tools                 : Git, VS Code, Jupyter Notebook, Docker
+Cloud                 : AWS (basics)
+
+----------------------------
+PROJECTS
+----------------------------
+1. Resume Screener with Machine Learning (Final Year Project)
+   - Built an automated resume screening system using Python and NLP
+   - Used TF-IDF vectorization and Cosine Similarity for candidate ranking
+   - Implemented Named Entity Recognition (NER) using SpaCy for skill extraction
+   - Parsed PDF and DOCX resumes using PDFMiner and Python-docx
+   - Deployed the web app using Streamlit with real-time candidate ranking dashboard
+   - Tech Stack: Python, NLTK, Scikit-learn, Streamlit, SQLite
+
+2. Sentiment Analysis on Product Reviews
+   - Built a sentiment classifier using NLP and Scikit-learn
+   - Preprocessed text using tokenization, lemmatization, stop-word removal
+   - Achieved 87% accuracy using TF-IDF + Logistic Regression
+   - Tech Stack: Python, NLTK, Pandas, Scikit-learn
+
+----------------------------
+CERTIFICATIONS
+----------------------------
+- Machine Learning by Andrew Ng - Coursera (2024)
+- Python for Data Science - IBM (2024)
+- NLP Specialization - deeplearning.ai (2025)
+
+----------------------------
+SOFT SKILLS
+----------------------------
+- Problem Solving
+- Team Collaboration
+- Communication
+- Continuous Learning
+- Attention to Detail
+
+----------------------------
+LANGUAGES
+----------------------------
+English, Hindi, Marathi
